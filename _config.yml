@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 Title: [Xiyin Deng]
-description: [my personal website]
+description: [a student in SWUFE-UD and this is my personal website]
 show_downloads: ['true']
